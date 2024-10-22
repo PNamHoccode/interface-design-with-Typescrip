@@ -12,4 +12,4 @@ step 6: instaled all succes ofent vscode and open project "Breadcrumbsinterface-
 
 step 7: final run file index.html
 
-linkdowload nodejs: https://nodejs.org/en/download/package-manager
+link dowload nodejs: https://nodejs.org/en/download/package-manager
